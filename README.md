@@ -1,6 +1,6 @@
 ### Stripe Elements Filler
 
-Fill annoying stripe test page using control + p on a mac -
+Fill annoying stripe test page using `control + p` on a mac -
 
 ## How to install
 
@@ -14,3 +14,7 @@ Fill annoying stripe test page using control + p on a mac -
 
 1. Make any code changes locally
 2. Press update on the chrome extension details
+
+## Example
+
+![Example](example-gif.gif)
